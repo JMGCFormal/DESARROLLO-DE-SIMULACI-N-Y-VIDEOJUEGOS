@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SextoSol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SextoSol_jar</output-path>
+    <root id="archive" name="SextoSol.jar">
+      <element id="module-output" name="SextoSol" />
+    </root>
+  </artifact>
+</component>
